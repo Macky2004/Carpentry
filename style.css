@@ -1,0 +1,36 @@
+img{
+    width: 100x;
+    height: 100px;
+    object-fit: contain;
+    border-radius: 50px;
+}
+p{
+    font-style:unset;
+    font-size: 20px;
+}
+body{
+    background-color: black;
+    background-size: cover;
+    height: 100px;
+    background-position: center;
+}
+video{
+    width: 600px;
+    object-fit: contain;
+    position: center;
+}
+h2:hover{
+    color: aqua;
+}
+object{
+    color: white;
+    mix-blend-mode:lighten;
+    width: 500px;
+    height: 500px;
+    position: center;
+}
+div2 li:hover{
+    color: orangered;
+}
+
+
